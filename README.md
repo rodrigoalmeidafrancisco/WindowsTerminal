@@ -7,7 +7,7 @@ Configuração Windows Terminal
 
 - Instalar o Oh My Posh
   - https://ohmyposh.dev/docs/installation/windows
-  - Comandos para executar no POwerShell:
+  - Comandos para executar no PowerShell (Admin):
     - **Automático:** winget install oh-my-posh
     - **Manual:** Set-ExecutionPolicy Bypass -Scope Process -Force; Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://ohmyposh.dev/install.ps1'))
 
