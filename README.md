@@ -12,3 +12,4 @@ Configuração Windows Terminal
     - **Manual:** Set-ExecutionPolicy Bypass -Scope Process -Force; Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://ohmyposh.dev/install.ps1'))
 
 
+**OBS:** https://www.youtube.com/watch?v=8te5S-MYiYY
